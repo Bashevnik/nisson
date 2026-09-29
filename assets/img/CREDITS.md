@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — https://kaboompics.com/
+- infra/interior.jpg — Engin Akyurt
+- rooms/implant.jpg — Tima Miroshnichenko
+- rooms/prosth.jpg — https://kaboompics.com/
+- rooms/hygiene.jpg — Andrea Piacquadio
+- rooms/therapy.jpg — https://kaboompics.com/
+- rooms/xray.jpg — cottonbro studio
+- rooms/smile.jpg — Tima Miroshnichenko
+- infra/detail.jpg — https://kaboompics.com/
+- infra/work.jpg — Anna Shvets
